@@ -6,3 +6,6 @@ ipynb_checkpoints
 # Added the dataset folders
 /mushroom_images
 /CNN_Dataset
+
+/Important Codes
+*.txt
