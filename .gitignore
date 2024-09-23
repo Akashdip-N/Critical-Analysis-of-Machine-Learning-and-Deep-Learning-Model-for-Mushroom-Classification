@@ -4,6 +4,7 @@
 ipynb_checkpoints
 
 # Added the dataset folders
+/mushroom_images
 /Test
 /CNN_Dataset
 
