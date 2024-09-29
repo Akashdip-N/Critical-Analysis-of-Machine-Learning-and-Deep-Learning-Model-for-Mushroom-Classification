@@ -8,3 +8,6 @@ ipynb_checkpoints
 
 /Important Codes
 *.txt
+
+/runs
+* .pt
