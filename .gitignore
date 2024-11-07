@@ -10,3 +10,7 @@
 /config
 *.txt
 /Pth_Files
+
+*.h5
+*.keras
+*.pth
