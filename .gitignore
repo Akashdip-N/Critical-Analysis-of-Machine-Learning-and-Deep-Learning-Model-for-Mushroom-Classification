@@ -3,9 +3,6 @@
 .vscode
 .ipynb_checkpoints
 
-# Added the dataset folders
-/datasets
-
 /Important Codes
 /config
 /Pth_Files
