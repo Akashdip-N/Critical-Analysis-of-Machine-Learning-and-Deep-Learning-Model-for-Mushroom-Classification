@@ -1,6 +1,6 @@
 # Requirements for the project
 
-torch==2.1.0
+torch==2.2.0
 tensorflow==2.17.0
 keras-tuner==1.4.7
 pandas==2.1.1
