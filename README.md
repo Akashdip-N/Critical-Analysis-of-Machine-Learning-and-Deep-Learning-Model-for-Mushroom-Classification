@@ -37,8 +37,8 @@ You need to have the following softwares installed on your machine:
 Follow the below steps to run the code in your local machine:
   1.	Clone the repository:
 ```bash
-git https://github.com/Akashdip-N/Critical-Analysis-of-Machine-Learning-and-Deep-Learning-Models.git
-cd Critical-Analysis-of-Machine-Learning-and-Deep-Learning-Models/
+git clone https://github.com/Akashdip-N/Mushroom-Classification.git
+cd Mushroom-Classification/
 ```
   2. Create a virtual environment:
 ```bash
@@ -59,7 +59,7 @@ git clone https://github.com/Akashdip-N/Dataset.git
      Either you can update the configuration file path according to the path in which the dataset is stored or you can move the dataset folder into the code directory and use the following code:
 ```json
   {
-    "Pth_Files": "Critical-Analysis-of-Machine-Learning-and-Deep-Learning-Models/Pth_Files",
+    "Pth_Files": "Mushroom-Classification/Pth_Files",
     "dataset_path": "Dataset/mushroom_images",
     "train_path": "Dataset/mushroom_images/train",
     "val_path": "Dataset/mushroom_images/val",
