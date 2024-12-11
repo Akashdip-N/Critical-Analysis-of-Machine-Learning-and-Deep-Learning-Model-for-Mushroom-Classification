@@ -6,6 +6,7 @@
 /Important Codes
 /config
 /Pth_Files
+/Dataset
 
 *.h5
 *.keras
