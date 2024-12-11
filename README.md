@@ -1,8 +1,6 @@
-# Edible-Mushroom-Prediction
-Critical Analysis of Machine Learning and Deep Learning models for Mushroom Classification.
+# Critical Analysis of Machine Learning and Deep Learning Model for Mushroom Classification
 
 ## Introduction
-
 This project aims to perform critical analysis of a total of 7 models which includes 1 machine learning model and 6 deep learning models and below are the models that are used in this project:-
 
 This project includes the implementation of different machine learning models such as:
@@ -14,7 +12,6 @@ This project includes the implementation of different machine learning models su
  *	ResNet101 (Deep Learning Model)
 
 ## Dataset
-
 The dataset is divided into three folders: `train`, `test` and `val`.
 
 The `train` folder contains 194 images, `val` folder contains 28 images and the `test` folder contains 3 images.
@@ -40,8 +37,8 @@ You need to have the following softwares installed on your machine:
 Follow the below steps to run the code in your local machine:
   1.	Clone the repository:
 ```bash
-git clone https://github.com/Akashdip-N/Edible-Mushroom-Prediction.git
-cd Edible-Mushroom-Prediction/
+git https://github.com/Akashdip-N/Critical-Analysis-of-Machine-Learning-and-Deep-Learning-Models.git
+cd Critical-Analysis-of-Machine-Learning-and-Deep-Learning-Models/
 ```
   2. Create a virtual environment:
 ```bash
@@ -62,7 +59,7 @@ git clone https://github.com/Akashdip-N/Dataset.git
      Either you can update the configuration file path according to the path in which the dataset is stored or you can move the dataset folder into the code directory and use the following code:
 ```json
   {
-    "Pth_Files": "Edible-Mushroom-Prediction/Pth_Files",
+    "Pth_Files": "Critical-Analysis-of-Machine-Learning-and-Deep-Learning-Models/Pth_Files",
     "dataset_path": "Dataset/mushroom_images",
     "train_path": "Dataset/mushroom_images/train",
     "val_path": "Dataset/mushroom_images/val",
