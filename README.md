@@ -57,13 +57,13 @@ git clone https://github.com/Akashdip-N/Dataset.git
   
   5. Create a new folder named config and inside it create a file named `config.json` and add the following code:
 ```json
-  {
+{
     "Pth_Files": "Mushroom-Classification/Pth_Files",
     "dataset_path": "Dataset/",
     "train_path": "Dataset/train",
     "val_path": "Dataset/val",
     "test_path": "Dataset/test"
-  }
+}
 ```
 
 
