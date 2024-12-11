@@ -28,7 +28,7 @@ Here’s a brief overview of the models used:
  * ResNet101: ResNet101 is a deep learning model that is based on residual learning. It is a 101-layer deep neural network that is widely used for image classification tasks.
 
 
-# Installation
+## Installation
 You need to have the following softwares installed on your machine:
   * [Python](https://www.python.org/downloads/)
   * [Anaconda Navigator](https://www.anaconda.com/products/distribution)
@@ -67,7 +67,7 @@ git clone https://github.com/Akashdip-N/Dataset.git
 ```
 
 
-# Usage
+## Usage
 
 To execute the code, follow the steps below:
   * Open the jupyter notebook
