@@ -81,10 +81,10 @@ The confusion matrix will look something like this:
 ![Confusion matrix](Plots_and_graphs/Confusion_Matrix/CNN_PyTorch.png)
 
 The training accuracy curve will look something like this:
-![Training accuracy curve](Plots_and_graphs/Training_accuracy_curveCNN_PyTorch.png)
+![Training accuracy curve](Plots_and_graphs/CNN_PyTorch.png)
 
 The F1-score, precision, accuracy and recall will look something like:
-![F1-score, precision, accuracy and recall](Plots_and_graphs/F1_score/F1_score.png)
+![F1-score, precision, accuracy and recall](Plots_and_graphs/Random_Forest.jpeg)
 
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue to suggest any improvements or report bugs.
