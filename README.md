@@ -19,7 +19,7 @@ The dataset is divided into three folders: `train`, `test` and `val`.
 
 The `train` folder contains 194 images, `val` folder contains 28 images and the `test` folder contains 3 images.
 
-The dataset is divided into 2 classes: `edible` and `poisonous`.
+Each folder is further divided into 2 classes: `edible` and `poisonous`.
 
 ## Model Architecture
 Here’s a brief overview of the models used:
