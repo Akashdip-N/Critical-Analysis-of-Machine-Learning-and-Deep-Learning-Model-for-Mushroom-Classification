@@ -60,9 +60,9 @@ git clone https://github.com/Akashdip-N/Dataset.git
 ```json
   {
     "Pth_Files": "Mushroom-Classification/Pth_Files",
-    "dataset_path": "Dataset/mushroom_images",
-    "train_path": "Dataset/mushroom_images/train",
-    "val_path": "Dataset/mushroom_images/val",
+    "dataset_path": "Dataset/",
+    "train_path": "Dataset/train",
+    "val_path": "Dataset/val",
     "test_path": "Dataset/test"
   }
 ```
