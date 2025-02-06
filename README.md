@@ -1,11 +1,9 @@
 # Critical Analysis of Machine Learning and Deep Learning Model for Mushroom Classification
 
 ## Introduction
-This project aims to perform critical analysis of a total of 7 models which includes 1 machine learning model and 6 deep learning models and below are the models that are used in this project:-
-
-This project includes the implementation of different machine learning models such as:
+This project aims to perform critical analysis of a total of 7 models, which includes 1 machine learning model and 6 deep learning models. Below are the models that are used in this project:-
  *	Random Forest (Machine Learning Model)
- *	Convolution Neural Network Model using TesorFlow and PyTorch
+ *	Convolution Neural Network Model using TensorFlow and PyTorch
  *	VGG16 (Deep Learning Model)
  *	MobileNetv2 (Deep Learning Model)
  *	ResNet50 (Deep Learning Model)
