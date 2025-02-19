@@ -88,4 +88,4 @@ The F1-score, precision, accuracy and recall will look something like:
 Contributions are welcome! Please submit a pull request or open an issue to suggest any improvements or report bugs.
 
 ## License
-This project is licensed under the CC0 1.0 Universal - see the LICENSE file for details.
+This project is licensed under the CC0 1.0 Universal - see the [LICENSE](LICENSE) file for details.
