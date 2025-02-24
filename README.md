@@ -16,7 +16,7 @@ The `train` folder contains 194 images, the `val` folder contains 28 images and 
 
 Each folder is divided into 2 classes: `edible` and `poisonous`.
 
-This is the [GitHub Repository]{https://github.com/Akashdip-N/Dataset.git} link for the dataset used in this project. 
+This is the [GitHub Repository](https://github.com/Akashdip-N/Dataset.git) link for the dataset used in this project. 
 
 ## Model Architecture
 Here’s a brief overview of the models used:
