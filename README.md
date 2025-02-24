@@ -12,9 +12,11 @@ This project aims to perform critical analysis of a total of 7 models, which inc
 ## Dataset
 The dataset is divided into three folders: `train`, `test` and `val`.
 
-The `train` folder contains 194 images, `val` folder contains 28 images and the `test` folder contains 3 images.
+The `train` folder contains 194 images, the `val` folder contains 28 images and the `test` folder contains 3 images.
 
-Each folder is further divided into 2 classes: `edible` and `poisonous`.
+Each folder is divided into 2 classes: `edible` and `poisonous`.
+
+This is the [GitHub Repository]{https://github.com/Akashdip-N/Dataset.git} link for the dataset used in this project. 
 
 ## Model Architecture
 Here’s a brief overview of the models used:
@@ -27,12 +29,12 @@ Here’s a brief overview of the models used:
 
 
 ## Installation
-You need to have the following softwares installed on your machine:
+You need to have the following software installed on your machine:
   * [Python](https://www.python.org/downloads/)
   * [Anaconda Navigator](https://www.anaconda.com/products/distribution)
   * [Juypyter notebook](https://jupyter.org/install)
 
-Follow the below steps to run the code in your local machine:
+Follow the below steps to run the code on your local machine:
   1.	Clone the repository:
 ```bash
 git clone https://github.com/Akashdip-N/Mushroom-Classification.git
@@ -48,7 +50,7 @@ conda activate myenv
 ```bash
 pip install -r requirements.txt
 ```
-  4.	Clone the repository which contains the dataset using the following command:
+  4.	Clone the repository that contains the dataset using the following command:
 ```bash
 git clone https://github.com/Akashdip-N/Dataset.git
 ```
